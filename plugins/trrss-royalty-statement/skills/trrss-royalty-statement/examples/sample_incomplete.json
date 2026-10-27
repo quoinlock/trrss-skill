@@ -1,0 +1,71 @@
+{
+  "contract": {
+    "LicName": "Libros del Sur S.L.",
+    "LicConInfo": "Calle Mayor 1, 28013 Madrid, Spain; rights@librosdelsur.example; https://librosdelsur.example; +34 91 000 0000",
+    "LicContID": "LS-2024-0117",
+    "LicensorName": "Example House Publishers",
+    "LicensorContID": "EH-TR-5521",
+    "ContribNames": [
+      "Jane Q. Author (ISNI 0000 0001 2345 6789)"
+    ],
+    "LicensorWorkTitle": "The Salt Road",
+    "LicWorkTitle": "El camino de la sal",
+    "LangLicWork": [
+      "Spanish"
+    ],
+    "SalesTerr": [
+      "Spain",
+      "Latin America"
+    ],
+    "AdvAmount": 5000,
+    "PayName": "Parent Group <Holdings> & Co",
+    "<evil/>": "x"
+  },
+  "statement": {
+    "RoyStmntDate": "2026-07-15",
+    "RoyRptStartDt": "2026-01-01",
+    "RoyRptEndDt": "2026-06-30",
+    "TotRoyEarnings": 1250,
+    "ResWithheld": -125,
+    "ResReleased": 0,
+    "ClosingBal": 1625,
+    "PayDue": 999
+  },
+  "product_lines": [
+    {
+      "NetUnitstoBegPer": 1000,
+      "LicProdIdentifier": "9780306406157",
+      "ProdFormDtl": "hardcover",
+      "LicPubDate": "2024-09-01",
+      "LicListPrice": 20,
+      "RoyRate": 10,
+      "RoyBasis": 20,
+      "UnitsSldinPer": 500,
+      "RoyEarnings": 1000,
+      "LTDUnitsSold": 1400
+    },
+    {
+      "NetUnitstoBegPer": 0,
+      "LicProdIdentifier": "9781861972713",
+      "ProdFormDtl": "ebook",
+      "LicListPrice": 5,
+      "RoyRate": 25,
+      "RoyBasis": 5,
+      "UnitsSldinPer": 200,
+      "RoyEarnings": 250,
+      "LTDUnitsSold": 200
+    }
+  ],
+  "sublicenses": [
+    {
+      "SubLicName": "Club del Libro",
+      "SubLicType": "book club",
+      "SubLicIncome": 1000,
+      "LicensorShare": 50
+    }
+  ],
+  "remittance": {
+    "LicTaxID": "ESB12345678",
+    "LicensorTaxExStatus": "waived"
+  }
+}

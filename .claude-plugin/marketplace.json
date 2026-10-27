@@ -1,0 +1,14 @@
+{
+  "name": "trrss-skill",
+  "description": "Audit translation-rights royalty statements against the BISG TRRSS standard",
+  "owner": {
+    "name": "Ben Rockwood"
+  },
+  "plugins": [
+    {
+      "name": "trrss-royalty-statement",
+      "source": "./plugins/trrss-royalty-statement",
+      "description": "Audit and convert translation-rights royalty statements against the BISG TRRSS (Jan 2026, 44 fields); red/green field table"
+    }
+  ]
+}

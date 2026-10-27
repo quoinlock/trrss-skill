@@ -1,0 +1,7 @@
+{
+  "name": "trrss-royalty-statement",
+  "description": "Audit and convert translation-rights royalty statements against the BISG TRRSS (Jan 2026, 44 fields); red/green field table",
+  "version": "1.1.1",
+  "author": { "name": "YOUR NAME" },
+  "license": "MIT"
+}
